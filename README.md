@@ -23,7 +23,7 @@ You need a web browser to view the project.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/netflix_clone.git
+    git clone https://github.com/sohil-khann/netflix_clone.git
     ```
 2. Open the `index.html` file in your web browser.
 
